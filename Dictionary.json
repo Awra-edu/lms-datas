@@ -21,8 +21,8 @@
   },
   {
     "term": "Biological Contaminants",
-    definition: "Microorganisms or their byproducts that can cause illness, including bacteria, viruses, and mold.",
-    field: "Environmental Health",
+    "definition": "Microorganisms or their byproducts that can cause illness, including bacteria, viruses, and mold.",
+    "field": "Environmental Health",
   },
   {
     "term": "Climate Change",
