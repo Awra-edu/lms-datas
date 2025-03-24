@@ -1,0 +1,22 @@
+{
+  "Computer Science": [
+    "Introduction to Programming",
+    "Data Structures and Algorithms",
+    "Database Systems",
+    "Operating Systems",
+    "Computer Networks",
+    "Software Engineering",
+    "Artificial Intelligence",
+    "Web Development"
+  ],
+  "Biology": [
+    "Cell Biology",
+    "Genetics",
+    "Ecology",
+    "Microbiology",
+    "Physiology",
+    "Molecular Biology",
+    "Evolution",
+    "Biodiversity"
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cs101",
+    "subject": "Introduction to Programming",
+    "title": "Variables and Data Types",
+    "content": "Variables are containers for storing data values. In programming, data types are an important concept. Different programming languages support various types of data, such as numbers, text, and boolean values. Understanding data types is crucial for efficient memory usage and preventing errors in your programs.",
+    "department": "Computer Science"
+  },
+  {
+    "id": "cs102",
+    "subject": "Introduction to Programming",
+    "title": "Control Structures",
+    "content": "Control structures are blocks of code that determine the flow of program execution. The three main control structures are sequence, selection, and repetition. Selection structures include if-else statements and switch cases, while repetition structures include for loops, while loops, and do-while loops.",
+    "department": "Computer Science"
+  },
+  {
+    "id": "cs103",
+    "subject": "Data Structures and Algorithms",
+    "title": "Arrays and Linked Lists",
+    "content": "Arrays and linked lists are fundamental data structures used to store collections of data. Arrays store elements in contiguous memory locations, allowing for constant-time access to elements by index. Linked lists consist of nodes where each node contains data and a reference to the next node, allowing for efficient insertion and deletion operations.",
+    "department": "Computer Science"
+  }
+]

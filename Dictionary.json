@@ -1,0 +1,17 @@
+[
+  {
+    "term": "Algorithm",
+    "definition": "A step-by-step procedure for solving a problem or accomplishing a task.",
+    "field": "Computer Science"
+  },
+  {
+    "term": "Variable",
+    "definition": "A storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value.",
+    "field": "Computer Science"
+  },
+  {
+    "term": "Recursion",
+    "definition": "A programming technique where a function calls itself to solve a problem.",
+    "field": "Computer Science"
+  }
+]
